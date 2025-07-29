@@ -19,7 +19,6 @@ Bu proje, C# ve .NET WinForms kullanılarak geliştirilmiş bir masaüstü uygul
 - Git & GitHub
 
 ## 🚀 Kurulum
-
 1. Projeyi bilgisayarınıza klonlayın:
 git clone https://github.com/salihaisgoren/WinFormsApp9.git
 
