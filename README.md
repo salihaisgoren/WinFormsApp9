@@ -19,12 +19,12 @@ Bu proje, C# ve .NET WinForms kullanılarak geliştirilmiş bir masaüstü uygul
 - Git & GitHub
 
 ## 🚀 Kurulum
-1. Projeyi bilgisayarınıza klonlayın:
-git clone https://github.com/salihaisgoren/WinFormsApp9.git
+1.  Projeyi bilgisayarınıza klonlayın:  
+    `git clone https://github.com/salihaisgoren/WinFormsApp9.git`
 
- 2.Visual Studio ile WinFormsApp9.sln dosyasını açın.
+2.  Visual Studio ile `WinFormsApp9.sln` dosyasını açın.
 
- 3.Gerekli NuGet paketlerini yükleyin
+3.  Gerekli NuGet paketlerini yükleyin.
 
- 4.API'nin çalışır durumda olduğundan emin olun:
-https://localhost:7170/api/Pokemon
+4.  API'nin çalışır durumda olduğundan emin olun:  
+    [https://localhost:7170/api/Pokemon](https://localhost:7170/api/Pokemon)
